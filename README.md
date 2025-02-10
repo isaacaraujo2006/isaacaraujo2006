@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isaac+Araujo;Data+Scientist;Data+Analyst;Business+Intelligence;Excel+VBA;Kanban;Power+BI;Python;Scrum;Scrumban;Machine+Learning;Artificial+Intelligence;SQL;PostgreSQL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isaac+Araujo;Data+Scientist;Data+Analyst;Business+Intelligence;Excel+VBA;Kanban;Power+BI;Python;Scrum;Scrumban;Machine+Learning;Artificial+Intelligence;SQL;PostgreSQL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaacaraujo2006&bg_color=0d1117&color=ffcc00&line=ffcc00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaacaraujo2006&bg_color=0d1117&color=ffffff&line=ffffff&point=c0c0c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaacaraujo2006&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=isaacaraujo2006&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=12"/>
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaacaraujo2006&show_icons=true&count_private=true&hide_border=false&title_color=ffcc00&icon_color=ffcc00&text_color=ffcc00&bg_color=0d1117" alt="Isaac Araujo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaacaraujo2006&layout=compact&hide_border=false&title_color=ffcc00&text_color=ffcc00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaacaraujo2006&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Isaac Araujo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaacaraujo2006&layout=compact&hide_border=false&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 <div align="left">
 <a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/isaacaraujo2006/portfolio"> Portfolio </a> | <a id="inicio" href="https://isaacaraujo2006.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/aws"> Aws </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/excel-vba"> Excel VBA </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/kanban"> Kanban </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/powerbi"> Power BI </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/python"> Python </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/scrum"> Scrum </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/scrumban"> Scrumban </a> | <a id="inicio" href="https://github.com/isaacaraujo2006/sql"> Sql </a> |
- </div>
+</div>
 
 ### Knowledge:
 <a id="inicio" href="https://github.com/isaacaraujo2006/data-science"> Data-Science </a> |
@@ -37,4 +37,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isaacaraujo2006}/count.svg" /></p><br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
